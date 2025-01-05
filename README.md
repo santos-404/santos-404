@@ -54,6 +54,6 @@ I'm planning to develop a **Java-based interpreter** as my next big project! Sta
 
 ---
 
-💡 _"I'd rather code algorithms, tho."_  
+💡 _"I'd rather code algorithms, tho."_  xd
 
 Any critique or PR is greatly appreciated! 🎉
