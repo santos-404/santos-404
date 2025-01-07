@@ -1,59 +1,16 @@
-# Hi there! 👋 I'm Javier Santos  
+# Javier Santos
 
-I'm an almost-software-engineer 🎓 from Seville, passionate about **open-source technologies**, **Linux**, and **coding algorithms**. I thrive on solving challenges on platforms like Codewars and enjoy building robust software using Python and Java.
+![](https://img.shields.io/badge/Linux-%23ff0000?style=flat-square&logo=linux&logoColor=white) ![](https://img.shields.io/badge/Fedora-%231A8DFF?style=flat-square&logo=fedora&logoColor=white) ![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-%23f89820?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Neovim-%233B2C2F?style=flat-square&logo=neovim&logoColor=white) ![](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Git-%23F1502F?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white) ![](https://img.shields.io/badge/Flask-%23000B2A?style=flat-square&logo=flask&logoColor=white) ![](https://img.shields.io/badge/React-%2300d8ff?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Node.js-%2361DAFB?style=flat-square&logo=node.js&logoColor=black) ![](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/SQL-%2300f?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Javascript-%23F0DB4F?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Bootstrap-%238563AF?style=flat-square&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/MariaDB-%23004B87?style=flat-square&logo=mariadb&logoColor=white) ![](https://img.shields.io/badge/JetBrains-%23000000?style=flat-square&logo=jetbrains&logoColor=white) ![](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white) ![](https://img.shields.io/badge/GraphQL-%23E10098?style=flat-square&logo=graphql&logoColor=white) ![](https://img.shields.io/badge/XFuzzy-%239ACD32?style=flat-square&logo=undefined&logoColor=white)
 
----
+Just a Linux lover who enjoys working on **algorithms**, **optimizations**, and **coding**. 
 
-## 🛠️ Technologies & Skills  
+![Javier's GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJpMnY2YnB6cDJub3VqeXc4dXR2cThjbHMyYm9iajU1ZDBpaTM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYqNvrl2YaPGLaU/giphy.gif)
 
-### Backend:
-- **Python**: Django, Flask  
-- **Java**: Spring Boot  
-
-### Frontend:
-- React, JavaScript (ES6+), HTML, CSS  
-
-### Other:
-- Linux 🐧, Git/GitHub, Algorithms & Data Structures  
+## Contact me! :D
+- Email me: [javier.jsm21@gmail.com](mailto:javier.jsm21@gmail.com)
+- Check out my projects: [GitHub](https://github.com/javsanmar5)
+- You got my social media on my links
 
 ---
 
-## 🌱 Current Focus
-- Completing my last year of software engineering 🎓
-- Building **DealHopper**, a smartphone price comparator using Django, Whoosh, and BeautifulSoup.
-- Exploring **quantum key distribution** with the BB84 protocol. 🔑
-
----
-
-## 🚀 Next Steps  
-I'm planning to develop a **Java-based interpreter** as my next big project! Stay tuned for updates.  
-
----
-
-## 🌟 Featured Projects  
-- [DealHopper](https://github.com/javsanmar5/DealHopper): A smartphone price comparison web app.  
-- [BB84 Quantum Key Distribution](https://github.com/javsanmar5/bb84-simulacion): A simple implementation of quantum cryptography.
-- [ZDT3 Evolutive Algorithm](https://github.com/javsanmar5/zdt3): A implemnentation of evolutive algorithms on a typical problem.
-
----
-
-## 📊 GitHub Stats  
-
-![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javsanmar5&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javsanmar5&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect!  
-- **GitHub**: [javsanmar5](https://github.com/javsanmar5)  
-- **LinkedIn**: [Javier Santos](https://www.linkedin.com/in/javier-santos-martin-81a82030a/)
-- **Personal Twitter**: [Javier Santos](https://x.com/javierrsantoss)
-- **Coding Twitter**: [javsandev](https://x.com/javsandev)
-- **Personal Twitter**: [Javier Santos](https://instagram.com/javierrsantoss)
- 
-
----
-
-💡 _"I'd rather code algorithms, tho."_  xd
-
-Any critique or PR is greatly appreciated! 🎉
+Thanks for checking out my profile! Let's make something cool.
