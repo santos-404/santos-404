@@ -8,7 +8,7 @@ im litteraly that annoying guy who's always telling you to switch to Linux; algo
 
 ## Contact me! :D
 - Email me: [javier.jsm21@gmail.com](mailto:javier.jsm21@gmail.com)
-- Check out my projects: [GitHub](https://github.com/javsanmar5)
+- Check out my projects: [GitHub](https://github.com/javsanmar5?tab=repositories)
 - You got my social media on my links
 
 ---
