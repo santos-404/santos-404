@@ -21,13 +21,6 @@
   </tr>
 </table>
 
-
-
-## Hit me up
-- Email me: [javier.jsm21@gmail.com](mailto:javier.jsm21@gmail.com)
-- Check out my projects: [GitHub](https://github.com/javsanmar5?tab=repositories)
-- You got my social media on my links
-
----
-
-Thanks for checking out my profile! Let's make something cool.
+<div align="right">
+  <p>Feel free to take a look at whatever catches your eye, enjoy!</p>
+</div>
