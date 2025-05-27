@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,markdown,java,spring,python,tensorflow,django,flask,r,go,js,ts,react,astro,nodejs,html,css,bun,tailwind,postgres,sqlite,mysql,postman,neovim,vim,vscode,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,markdown,java,spring,python,tensorflow,django,flask,r,go,js,ts,react,astro,nodejs,htmx,css,bun,tailwind,postgres,sqlite,mysql,mariadb,postman,neovim,vim,stackoverflow" />
   </a>
 </div>
   
