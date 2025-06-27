@@ -24,3 +24,5 @@
 <div align="right">
   <p>Feel free to take a look at whatever catches your eye, enjoy!</p>
 </div>
+
+> You can find my dotfiles and my Neovim config on [dotfiles](https://github.com/santos-404/dotfiles) & [init.lua](https://github.com/santos-404/init.lua).
