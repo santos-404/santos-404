@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <p>I'm literally that annoying guy who's always telling you to switch to Linux; algorithms, algorithms, algorithms.</p>
+      <p>I'm literally that annoying tech guy who really loves to talk about technologies and algorithms.</p>
     </td>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJpMnY2YnB6cDJub3VqeXc4dXR2cThjbHMyYm9iajU1ZDBpaTM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYqNvrl2YaPGLaU/giphy.gif" width="600" height="300">
