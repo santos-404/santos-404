@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <p>I'm literally that annoying tech guy who really loves to talk about technologies and algorithms.</p>
+      <p>Curiosity-driven developer exploring better ways to compute, model, and build.</p>
     </td>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJpMnY2YnB6cDJub3VqeXc4dXR2cThjbHMyYm9iajU1ZDBpaTM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYqNvrl2YaPGLaU/giphy.gif" width="600" height="300">
@@ -25,4 +25,4 @@
   <p>Feel free to take a look at whatever catches your eye, enjoy!</p>
 </div>
 
-> You can find my dotfiles and my Neovim config on [dotfiles](https://github.com/santos-404/dotfiles) & [init.lua](https://github.com/santos-404/init.lua).
+> You can find my Arch dotfiles and my Neovim config on [dotfiles](https://github.com/santos-404/dotfiles) & [init.lua](https://github.com/santos-404/init.lua).
